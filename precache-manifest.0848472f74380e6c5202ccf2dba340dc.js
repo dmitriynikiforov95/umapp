@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "597de7d2f5737457c0e5eefcae5c8ce8",
+    "revision": "0483367758c6a3918501018b48d9b6ba",
     "url": "/umapp/index.html"
   },
   {
-    "revision": "6ca4fd3b9bd8dd145ffc",
-    "url": "/umapp/static/css/main.6dce3bfc.chunk.css"
+    "revision": "a0aa1d96c713739e2f62",
+    "url": "/umapp/static/css/main.0fab2d25.chunk.css"
   },
   {
     "revision": "1073f64b74f2e0147be0",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/umapp/static/js/2.6279aae6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ca4fd3b9bd8dd145ffc",
+    "revision": "a0aa1d96c713739e2f62",
     "url": "/umapp/static/js/main.51104ce9.chunk.js"
   },
   {
