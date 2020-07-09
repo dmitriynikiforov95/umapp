@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/umapp/static/css/main.82983dce.chunk.css",
-    "main.js": "/umapp/static/js/main.15ee1db3.chunk.js",
-    "main.js.map": "/umapp/static/js/main.15ee1db3.chunk.js.map",
+    "main.css": "/umapp/static/css/main.392e6cc2.chunk.css",
+    "main.js": "/umapp/static/js/main.cec54af1.chunk.js",
+    "main.js.map": "/umapp/static/js/main.cec54af1.chunk.js.map",
     "runtime-main.js": "/umapp/static/js/runtime-main.938fca66.js",
     "runtime-main.js.map": "/umapp/static/js/runtime-main.938fca66.js.map",
     "static/js/2.4a1ddb1a.chunk.js": "/umapp/static/js/2.4a1ddb1a.chunk.js",
     "static/js/2.4a1ddb1a.chunk.js.map": "/umapp/static/js/2.4a1ddb1a.chunk.js.map",
     "index.html": "/umapp/index.html",
-    "precache-manifest.9350402f6cf69c2c492be634fbabf4a9.js": "/umapp/precache-manifest.9350402f6cf69c2c492be634fbabf4a9.js",
+    "precache-manifest.2df236f6de1dd3af760ea664485aa859.js": "/umapp/precache-manifest.2df236f6de1dd3af760ea664485aa859.js",
     "service-worker.js": "/umapp/service-worker.js",
-    "static/css/main.82983dce.chunk.css.map": "/umapp/static/css/main.82983dce.chunk.css.map",
+    "static/css/main.392e6cc2.chunk.css.map": "/umapp/static/css/main.392e6cc2.chunk.css.map",
     "static/js/2.4a1ddb1a.chunk.js.LICENSE.txt": "/umapp/static/js/2.4a1ddb1a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.938fca66.js",
     "static/js/2.4a1ddb1a.chunk.js",
-    "static/css/main.82983dce.chunk.css",
-    "static/js/main.15ee1db3.chunk.js"
+    "static/css/main.392e6cc2.chunk.css",
+    "static/js/main.cec54af1.chunk.js"
   ]
 }
